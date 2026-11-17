@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Mitch Knoth
 
-5x AWS Certified | ☁️ Cloud Software Engineer at John Deere | AI-Native Delivery Advocate
+6x AWS Certified | ☁️ Cloud Software Engineer at John Deere | AI-Native Delivery Advocate
 
 **Harness engineering for the AI-era SDLC**
 
